@@ -1,0 +1,201 @@
+#
+# Shields of Oakvale
+#
+-----------------------------------------------------------------------------
+# General
+# Inspiration: 1
+#
+Name: Konstantin of Rostov
+Race: Human
+Alignment: LN
+Class: Bard
+Level: 11
+Hit Dice: d8
+-----------------------------------------------------------------------------
+# Attributes
+STR: 16 (+3)
+DEX: 20 (+5)
+CON: 15 (+2)
+INT: 17 (+3)
+WIS: 15 (+2)
+CHA: 21 (+5)
+-----------------------------------------------------------------------------
+# Saving Throws
+STR: +3
+DEX: +8
+CON: +2
+INT: +3
+WIS: +2
+CHA: +8
+-----------------------------------------------------------------------------
+# Skills
+Acrobatics: +9
+Animal Handling: +14
+Arcana: +5
+Athletics: +5
+Deception: +9
+History: +7
+Insight: +4
+Intimidation: +7
+Investigation: +5
+Medicine: +4
+Nature: +5
+Perception: +6
+Performance: +13
+Persuasion: +13
+Religion: +5
+Sleight of Hand: +9
+Stealth: +9
+Survival: +4
+-----------------------------------------------------------------------------
+Passive Perception: 17
+-----------------------------------------------------------------------------
+Armor Class: 18
+Initiative: +7
+Speed: 30
+Hit Points: 91/91 
+-----------------------------------------------------------------------------
+# Traits/Ideals/Bonds/Flaws
++ My eloquent flattery makes everyone I talk to feel like the most important person in the world.
++ Independence. I must prove that I can handle myself without the coddling of my family.
++ Heritage. The last few generations of my family have lost what once made the line great. I will renew that vigor.
++ In fact, the world does revolve around me.
+-----------------------------------------------------------------------------
+# Other Proficiencies and Languages
++ Common
++ Goblin
++ Elvish
++ Drum
++ Lute
++ Light Armor
++ Hand Crossbow
++ Rapier
++ Longsword
++ Shortsword
++ Simple Weapons
++ Dice Set
+-----------------------------------------------------------------------------
+# Equipment
++ Canaith Mandolin
++ Eyes of Charming
++ Hat of Disguise
++ Boots of Speed
++ Hand Crossbow
++ Silvered Rapier of Warning
++ Gleaming Chainmail (+1)
+-----------------------------------------------------------------------------
+# Wealth
+Gold: 5747
+Silver: 47
+-----------------------------------------------------------------------------
+# Features and Traits
+Spellcasting
+Bardic Inspiration (d10) [x] [] [] [] [] []
+Jack of all Trades
+Song of Rest
+Bardic College of Lore
+Expertise
+Font of Inspiration
+Countercharm
+Cutting Words
+Additional Magical Secrets
+-----------------------------------------------------------------------------
+# Spellcasting
+Spellcasting Ability: CHA
+Spell Save DC: 17
+Spell Attack Bonus: +8
+Cantrips:
++ Minor Illusion
+  - Illusion
+  - Range: 30 feet
+  - Components: S/M (a bit of fleece)
+  - Duration: 1 minute
+  - Description: You create a sound or an image of an object within range that lasts for the duration. The illusion also ends if you dismiss it as an action or cast this spell again. If you create a sound, its volume can range from a whisper to a scream. It can be your voice, someone else's voice, a lion's roar, a beating of drums, or any other sound you choose. The sound continues unabated throughouty the duration, or you can make discrete sounds at different times before the spell ends. If you create an image of an object - such as a chair, muddy footprints, or a small chest - it must be no larger than a 5-foot cube. The image can't create sound, light, smell, or any other sensory effect. Physical interaction wth the image reveals it to be an illusion, because things can pass through it. If a creature uses its action to examine the sound or image, the creature can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the illusion becomes faint to the creature.
++ Mage Hand
+  - Conjuration
+  - Range: 30 feet
+  - Components: V/S
+  - Duration: 1 minute
+  - Description: A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration or until you dismiss it as an action. The hand vanishes if it ever more than 30 feet away from you or if you cast this spell again. You can use your action to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. you can move the hand up to 30 feet each time you use it. The hand can't attack, activate magic items, or carry more than 10 pounds.
++ Prestidigitation
+  - Transmutation
+  - Casting Time: 1 action
+  - Range: 10 feet
+  - Components: V/S
+  - Duration: Up to 1 hour
+  - Description: This spell is a minor magical trick that novice spellcasters use for practice. You create one of the following magical effects within range. 1) You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor. 2) You instantaneously light or snuff out a candle, a torch, or a small campfire. 3) You instantaneously clean or soil an object no larger than 1 cubic foot. 4) You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour. 5) You make a color, a small mark, or a symbol appear on an object or surface for 1 hour. 6) You create a nonmagical tinket or an illusory image that can fit in your hand and that lasts until the end of yoru next turn. If you cast this spell multiple times, you can have up to three of its non-instantaneous effec active at a time, and you can dismiss such an effect as an action.
++ Light
+  - Evocation
+  - Casting time: 1 action
+  - Range: Touch
+  - Components: V/M (A firefly or phosphorescent moss)
+  - Duration: 1 hour
+  - Description: You touch one object that is no larger than 10 feet in any dimension. Until the spell ends, the object sheds bright light in a 20-foot radius and dim light for an additional 20 feet. The light can be colored as you like. Completely covering the object with something opaque blocks the light. The spell ends if you cast it again or dismiss it as an action. If you target an object held or worn by a hostile creature, that creature must succeed on a Dexterity saving throw to avoid the spell.
+Level 1: [] [] [] []
++ Disguise Self
+  - Illusion
+  - Casting time: 1 action
+  - Range: Self
+  - Components: V/S
+  - Duration: 1 hour
+  - Description: You make yourself - including your clothing, armor, weapons, and other belongings on your person - look different until the spell ends or until you use your action and dismiss it. You can seem 1 foot shorter or taller and can appear thin, fat, or in between. You can't change your body tyupe, so you must adopt a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to you. The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to your outfit, objects pass through the hat, and anyone who touches it would feel nothing or would feel your head and hair. If you use this spell to appear thinner than you are, the hand of someone who reaches out to touch you would bump into you while it was seemingly still in midair. To discern that you are disguised, a creature can use it's action to inspect your appearance and must succeed on an Intelligence (Investigation) check against your spell save DC.
++ Dissonant Whispers
++ Unseen Servant
++ Tasha's Hideous Laughter
+  - Enchantment
+  - Range: 20 feet
+  - Components: V/S/M (tiny tarts and a feather that is waved in the air)
+  - Duration: Concentration, up to 1 minute
+  - Description: A creature of your choice that you can see within range perceives everthing as hilariously funny and falls into fits of laughter if this spell affects it. The target must succeed on a Wisdom saving throw or fall prone, becoming incapacitated and unable to stand up for the duration. A creature with an Intelligence score of 4 or less isn't affected. At the end of each of its turns, and each time it takes damage, the target can make another Wisdom saving throw. The target has advantage on the saving throw if it's triggered by damage. On a success, the spell ends.
++ Bless
+Level 2: [] [] []
++ Suggestion
++ Phantasmal Force
++ Hold Person
+Level 3: [] [] []
++ Hypnotic Pattern
+  - Illusion
+  - Range: 120 feet
+  - Components: V/S/M (a pinch of dust and few drops of water)
+  - Duration: Concentration, up to 1 minute
+  - You create a twisting pattern of colors that weaves through the air inside a 30-foot cube within range. The pattern appears for a moment and vanishes. Each creature in the area who sees the pattern must make a Wisdom saving throw. On a failed save, the creature becomes charmed for the duration. While charmed by this spell, the creature is incapacitated and has a speed of 0. The spell ends for an affected creature if it takes any damange or if someone else uses an action to shake the creature out of its stupor.
++ Fear
++ Leomund's Tiny Hut
++ Aura of Vitality
+Level 4: [] [] []
++ Confusion
++ Charm Monster
++ Polymorph
++ Phantasmal Killer
++ Compulsion
+Level 5: [] []
++ Geas
++ Modify Memory
+Level 6: []
++ Eyebitey
++ Mass Suggestion
+-----------------------------------------------------------------------------
+# Weapons
+Name		Attack Bonus		Damage/Type
+Rapier		+9			1d8/piercing
+Hand Crossbow	+9			1d6/piercing
+-----------------------------------------------------------------------------
+# Per Day Abilities
++ The Lay of Uhai Qatyr
+	[Unique][Sheet Music][Requires Proficiency in Performance and 10th level]
+	The ancient scroll contians the melody to celebrate the deeds of a king long forgotten by the world
+	Once per day you may play the song and cast heroes' requiem.
+	Heroes' Requiem
+	- Conjuration
+	- Casting Time: 5 minutes
+	- Range: 30 geet
+	- Components: N/A
+	- Duration: Instantaneous
+	- Classes: Bard
+	- Description: You perform the melody of an inspiring requiem, the music bolstering the spirit and bodies of you and your allies. Up to 12 other creatures that can hear the music as affected.
+	- Benefits: The creature is cured of all diseases and poison, becomes immune to poson and being frightened, and makes all Wisdom saving throws with advantage. Its hit points maximum also increase by 2d10, ad it gains the same number of hit points. These benefits last for 1 hour.
+-----------------------------------------------------------------------------
+# Collectibles
++ fang of a land shark
++ 2lbs of obsidian shards (from Bane's Fall)
+
